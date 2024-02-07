@@ -16,7 +16,7 @@ jquiDep <- function() {
   htmltools::tagList(
     htmltools::htmlDependency(
       name       = "jqueryui",
-      version    = "1.12.1",
+      version    = "1.13.2",
       package    = "shiny",
       src        = "www/shared/jqueryui",
       script     = "jquery-ui.min.js",
